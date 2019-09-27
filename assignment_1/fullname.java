@@ -11,8 +11,8 @@ public class fullname {
     System.out.println("    *********        ******        ******   ");
     System.out.println("   ****   ****       ******      ******     ");
     System.out.println("  ****     ****      ******    ******       ");
-    System.out.println("  ***       ****     ******  ******         ");
-    System.out.println(" ****************    ************           ");
+    System.out.println(" ****       ****     ******  ******         ");
+    System.out.println(" ****************    *************           ");
     System.out.println(" ****        ****    ******  ******         ");
     System.out.println(" ****        ****    ******    ******       ");
     System.out.println(" ****        ****    ******      ******     ");
