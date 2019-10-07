@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class dice {
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
-
     System.out.print("What's your number? ");
     int N = sc.nextInt();
     dice_roll(N);
@@ -14,8 +13,8 @@ public class dice {
     int dice_2;
     int rollCount = 0;
 
-    dice_1 = (int)(12 * Math.random()) + 1;
-    dice_2 = (int)(12 * Math.random()) + 1;
+    dice_1 = (int)(6 * Math.random()) + 1;
+    dice_2 = (int)(6 * Math.random()) + 1;
 
     while(true){
       if (N < 2 || N > 12){
